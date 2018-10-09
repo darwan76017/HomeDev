@@ -1,0 +1,11 @@
+*.obj
+*.pdb
+*.log
+*.exe
+*.ilk
+*.tlog
+*.lastbuildstate
+*.json
+
+# Visual Studio
+*.user
