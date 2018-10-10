@@ -9,3 +9,6 @@
 
 # Visual Studio
 *.user
+*.suo
+*VC.db
+*.ipch
